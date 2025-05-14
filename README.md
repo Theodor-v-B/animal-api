@@ -10,3 +10,5 @@
 3. Status überprüfen mit `git status` 
 4. Füge Veränderungen zur Staging-Area hinzu mit `git add .`
 5. Mache einen Commit mit `git commit -m "Initial Commit"`
+6. Erstelle dir ein Repository auf Github.
+7. Füge das erstellte Repository (Github) als Remote Repository hinzu mit '
